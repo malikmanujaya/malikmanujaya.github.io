@@ -1686,3 +1686,8 @@ input, select, textarea {
 .hidden {
     visibility: hidden;
 }
+
+.image-row {
+	display: flex;
+	justify-content: space-around; /* Adjust this as needed for spacing */
+  }
